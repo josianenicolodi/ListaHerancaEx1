@@ -43,7 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Analista.cs" />
+    <Compile Include="Funcionarios.cs" />
+    <Compile Include="Gerente.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="Programador.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
